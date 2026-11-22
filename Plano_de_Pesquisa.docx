@@ -1,1 +1,156 @@
+PLANO DE PESQUISA 
 
+Segurança Digital, LGPD e os Objetivos de Desenvolvimento Sustentável (ODS 4, 9 e 16) 
+
+1. Tema 
+
+Segurança digital e proteção de dados pessoais (LGPD) na percepção e nas práticas da comunidade acadêmica e externa, com ênfase em hábitos de senha, uso de autenticação em dois fatores (2FA) e conhecimento sobre legislação de proteção de dados. 
+
+2. Problema de Pesquisa 
+
+Qual é o nível de conhecimento e quais são as práticas de segurança digital adotadas pela comunidade acadêmica e pelo público externo, e como esses fatores se relacionam com a percepção sobre a importância da Computação para o desenvolvimento sustentável da região (ODS 4, 9 e 16)? 
+
+3. Justificativa 
+
+O crescimento da dependência de serviços digitais tornou a segurança da informação e a proteção de dados pessoais temas centrais para cidadãos, instituições e empresas. Apesar da vigência da Lei Geral de Proteção de Dados (LGPD) e do Marco Civil da Internet, ainda há lacunas relevantes de conhecimento e de adoção de práticas básicas de segurança (como o uso de 2FA e boas práticas de senha) entre diferentes públicos. Investigar essa realidade contribui para identificar barreiras, subsidiar ações educativas e aproximar a Computação da sociedade, dialogando diretamente com os ODS 4 (Educação de Qualidade), 9 (Indústria, Inovação e Infraestrutura) e 16 (Paz, Justiça e Instituições Eficazes). 
+
+4. Objetivos 
+
+4.1 Objetivo Geral 
+
+Investigar o conhecimento, as práticas e a percepção da comunidade acadêmica e externa sobre segurança digital e LGPD, relacionando os resultados aos Objetivos de Desenvolvimento Sustentável 4, 9 e 16, por meio de pesquisa aplicada, produção de material informativo e devolutiva acessível. 
+
+4.2 Objetivos Específicos 
+
+Planejar e executar pesquisa aplicada em Computação, vinculada aos ODS 4, 9 e 16. 
+
+Elaborar material informativo acessível (pôster, folder ou infográfico digital) sobre segurança digital e LGPD. 
+
+Realizar coleta de dados online (geral) e presencial (em evento-âncora). 
+
+Tratar e analisar os dados por meio de estatística descritiva, gráficos e dashboard interativo. 
+
+Produzir artigo científico (ABNT ou IEEE) com os resultados da pesquisa. 
+
+Apresentar devolutiva pública em linguagem acessível à comunidade acadêmica e externa. 
+
+Cumprir princípios éticos e a LGPD, assegurando consentimento informado e anonimização dos dados. 
+
+5. Vínculo com os ODS 
+
+ODS 4 – Educação de Qualidade: o material informativo e a devolutiva pública atuam como ação educativa sobre segurança digital e proteção de dados. 
+
+ODS 9 – Indústria, Inovação e Infraestrutura: a pesquisa aborda o uso de infraestrutura digital segura como base para inovação responsável. 
+
+ODS 16 – Paz, Justiça e Instituições Eficazes: a proteção de dados pessoais e o cumprimento da LGPD relacionam-se diretamente à construção de instituições e ambientes digitais mais justos e confiáveis. 
+
+6. Método 
+
+6.1 Abordagem 
+
+Pesquisa aplicada, de natureza quanti-qualitativa, com coleta de dados por meio de questionário estruturado (majoritariamente fechado, com uma questão aberta). 
+
+6.2 Instrumento 
+
+Questionário estruturado em blocos: (1) perfil básico não identificável; (2) Computação & sociedade; (3) segurança e legislação (LGPD/Marco Civil); (4) infraestrutura e inovação; (5) percepção sobre ODS; (6) questão aberta. Uso de escala Likert de 5 pontos, múltipla escolha e checkbox. 
+
+6.3 Amostra e Coleta 
+
+Público-alvo: pessoas com 18 anos ou mais, da comunidade acadêmica e externa. 
+
+Coleta geral: formulário online, aberto durante o semestre, meta mínima de 25 respostas. 
+
+Coleta em evento-âncora: aplicação presencial via QR Code, meta mínima de 20 respostas por evento. [Evento e data a definir] 
+
+6.4 Ética e LGPD 
+
+Participação voluntária e anônima, mediante Termo de Consentimento Livre e Esclarecido (TCLE), com opção de recusa. Não serão coletados nome, CPF ou e-mail, exceto se o participante optar voluntariamente por receber a devolutiva da pesquisa. 
+
+6.5 Análise dos Dados 
+
+Estatística descritiva (frequências, médias, desvios-padrão e cruzamentos simples), visualizações gráficas (barras, pizza, heatmap) e dashboard interativo. Análise qualitativa opcional da questão aberta, por meio de nuvem de palavras e categorização temática. 
+
+7. Cronograma 
+
+Atividade 
+
+Descrição 
+
+Semanas (previstas) 
+
+1 
+
+Desenho da pesquisa (tema, problema, instrumento, vínculo ODS) 
+
+1–2 
+
+2 
+
+Criação do material informativo (folder/pôster/infográfico) 
+
+2–3 
+
+3 
+
+Coleta geral online (mín. 25 respostas) 
+
+3–8 
+
+4 
+
+Coleta adicional em evento-âncora (mín. 20/evento) 
+
+conforme calendário do evento 
+
+5 
+
+Análise e organização dos dados 
+
+8–10 
+
+6 
+
+Elaboração do artigo científico (ABNT/IEEE) 
+
+9–12 
+
+7 
+
+Relatório de devolutiva em linguagem acessível 
+
+11–13 
+
+8 
+
+Apresentação final (defesa + vídeo até 5 min) 
+
+13–14 
+
+
+Observação: as semanas são estimativas e devem ser ajustadas ao calendário letivo e à data confirmada do(s) evento(s)-âncora. 
+
+8. Produtos e Entregas Esperadas 
+
+Plano de Pesquisa (este documento). 
+
+Instrumento final (PDF) e link do formulário. 
+
+Base de dados (CSV/ODS), dicionário de variáveis e procedimentos de limpeza. 
+
+Dashboard público com 3 a 5 gráficos principais. 
+
+Artigo científico (ABNT ou IEEE). 
+
+Relatório de devolutiva (4 a 6 páginas) em linguagem acessível. 
+
+Evidências extensionistas (fotos, prints de divulgação, comprovação de participação em evento). 
+
+Repositório GitHub documentado (/docs, /dados, /analise, /figuras, /instrumento, README.md). 
+
+9. Referências 
+
+BRASIL. Lei nº 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais (LGPD). Brasília, DF: Presidência da República, 2018. 
+
+BRASIL. Lei nº 12.965, de 23 de abril de 2014. Marco Civil da Internet. Brasília, DF: Presidência da República, 2014. 
+
+ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU). Transformando Nosso Mundo: a Agenda 2030 para o Desenvolvimento Sustentável. Nova York: ONU, 2015.
